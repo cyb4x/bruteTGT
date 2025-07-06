@@ -1,10 +1,10 @@
 # bruteTGT
 
-🛡️ A minimal Python tool for brute-forcing valid Kerberos credentials by requesting TGTs via Impacket's `impacket-getTGT`.
+A minimal Python tool for brute-forcing valid Kerberos credentials by requesting TGTs via Impacket's `impacket-getTGT`.
 
 ---
 
-## 🔥 Features
+## Features
 
 - Uses Impacket’s `impacket-getTGT` script directly
 - Brute-forces user/password combinations
@@ -18,7 +18,7 @@
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.7+
 - [Impacket](https://github.com/fortra/impacket)
